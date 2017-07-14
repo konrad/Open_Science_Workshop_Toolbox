@@ -20,8 +20,6 @@ several occassion for workshops in diverse settings.
 
 * Use the research cycle as frame work
 
-
-
 - Idea -> Develop plan -> Fund -> Data generation -> Analysis -> Publishing -> ...
 
 * References/Links
@@ -48,7 +46,6 @@ several occassion for workshops in diverse settings.
 - [[https://choosealicense.com/][Choose an open source license]]
 - [[http://joss.theoj.org/][The Journal of Open Source Software]] - A developer friendly journal
   for research software packages
-- 
 
 ** Open Methodology
 ** Open Peer Review
