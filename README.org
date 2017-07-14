@@ -1,34 +1,41 @@
+#+TITLE: The Open Science Workshop Toolbox
+
+* About 
+
+This is a small collection (opiniated) collection of topics and
+methods used when running Open Science workshop. We have used them in
+several occassion for workshops in diverse settings.
+
+* Adapt to the audience
+
+* Important points to make
+
+- Open Science = Real Science (Good Scientific practice)
+
+* Icebreaker
+
+- Organized by research field 
+- Who has tried to replicate a research paper but not able to do so?
 
 
-- Icebreaker
-- irreproducible
-- Organize by fild
+* References/Links
 
-- Open Science = Real Science
-  - Good Scientific practice
+** General
 
-- Questions:
-  - how would li
-
-
-** References/Links
-
-*** General
-
-*** Open Access
+** Open Access
 
 **** Pre-Prints
 
 - [[http://mbio.asm.org/content/8/3/e00438-17.full][Preprinting Microbiology]]
 
-*** Open Source
+** Open Source
 
 - [[https://choosealicense.com/][Choose an open source license]]
 - [[http://joss.theoj.org/][The Journal of Open Source Software]] - A developer friendly journal
   for research software packages
 - 
 
-*** Metrics
+** Metrics
 
 - [[https://quantixed.wordpress.com/2015/05/05/wrong-number-a-closer-look-at-impact-factors/][Wrong Number: A closer look at Impact Factors]]
 
