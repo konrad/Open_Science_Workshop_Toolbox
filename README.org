@@ -17,16 +17,28 @@ several occassion for workshops in diverse settings.
 - Organized by research field 
 - Who has tried to replicate a research paper but not able to do so?
 
+* Use the research cycle as frame work
+
+
+
+- Idea -> Develop plan -> Fund -> Data generation -> Analysis -> Publishing -> ...
 
 * References/Links
 
 ** General
+
+- [[http://science.okfn.org/][OKF Open Science Working Group]]
+- [[https://www.ag-openscience.de/][AG Open Science (German speaking)]]
+- [[http://www.openscienceradio.de/][Open Science Radio]]
 
 ** Open Access
 
 **** Pre-Prints
 
 - [[http://mbio.asm.org/content/8/3/e00438-17.full][Preprinting Microbiology]]
+
+** Open Data
+- [[https://www.force11.org/group/fairgroup/fairprinciples][The FAIR Data Principles]]
 
 ** Open Source
 
@@ -35,9 +47,18 @@ several occassion for workshops in diverse settings.
   for research software packages
 - 
 
-** Metrics
-
+** Open Methodology
+** Open Peer Review
+** Citizen Science
+** Open Notebook Science
+** Open Educational resources
+** Open / alternative metrics
 - [[https://quantixed.wordpress.com/2015/05/05/wrong-number-a-closer-look-at-impact-factors/][Wrong Number: A closer look at Impact Factors]]
+- [[https://www.nature.com/news/beat-it-impact-factor-publishing-elite-turns-against-controversial-metric-1.20224][Beat it, impact factor! Publishing elite turns against controversial metric]]
+- [[http://www.leidenmanifesto.org/][Leiden manifesto for research Metrics]]
 
 
+* License
+
+"Can I reuse this content?" => "Yes, you can!" See LICENSE.txt.
 
