@@ -1,0 +1,36 @@
+
+
+- Icebreaker
+- irreproducible
+- Organize by fild
+
+- Open Science = Real Science
+  - Good Scientific practice
+
+- Questions:
+  - how would li
+
+
+** References/Links
+
+*** General
+
+*** Open Access
+
+**** Pre-Prints
+
+- [[http://mbio.asm.org/content/8/3/e00438-17.full][Preprinting Microbiology]]
+
+*** Open Source
+
+- [[https://choosealicense.com/][Choose an open source license]]
+- [[http://joss.theoj.org/][The Journal of Open Source Software]] - A developer friendly journal
+  for research software packages
+- 
+
+*** Metrics
+
+- [[https://quantixed.wordpress.com/2015/05/05/wrong-number-a-closer-look-at-impact-factors/][Wrong Number: A closer look at Impact Factors]]
+
+
+
