@@ -1,9 +1,9 @@
 #+TITLE: The Open Science Workshop Toolbox
-#+AUTHOR: Konrad U. Förstner
+#+AUTHOR: Konrad U. Förstner and Andreas Leimbach
 
 * About 
 
-This is a small collection (opiniated) collection of topics and
+This is a small (opiniated)  collection collection of topics and
 methods used when running Open Science workshop. We have used them in
 several occassion for workshops in diverse settings.
 
@@ -29,6 +29,7 @@ several occassion for workshops in diverse settings.
 ** General
 
 - [[https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0669-2][When will ‘open science’ become simply ‘science’?]]
+- [[https://f1000research.com/articles/3-271/v2][An Open Science Peer Review Oath]]
 - [[http://science.okfn.org/][OKF Open Science Working Group]]
 - [[https://www.ag-openscience.de/][AG Open Science (German speaking)]]
 - [[http://www.openscienceradio.de/][Open Science Radio]]
