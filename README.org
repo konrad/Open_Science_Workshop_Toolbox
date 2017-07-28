@@ -35,6 +35,9 @@ several occassion for workshops in diverse settings.
 
 ** Open Access
 
+- [[https://fairoa.org/][Fair Open Access]]
+- Example of a journal/community switching to Fair OA
+
 **** Pre-Prints
 
 - [[http://mbio.asm.org/content/8/3/e00438-17.full][Preprinting Microbiology]]
