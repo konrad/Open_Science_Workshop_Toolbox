@@ -36,7 +36,8 @@ several occassion for workshops in diverse settings.
 ** Open Access
 
 - [[https://fairoa.org/][Fair Open Access]]
-- Example of a journal/community switching to Fair OA
+- Examples of journals/community switching to OA
+  - [[https://svpow.com/2017/07/27/flipping-subscription-journals-to-oa-journal-of-algebraic-combinatorics/][Journal of Algebraic Combinatorics => Algebraic Combinatorics]]
 
 **** Pre-Prints
 
