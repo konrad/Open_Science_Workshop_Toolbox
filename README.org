@@ -3,35 +3,62 @@
 
 * About 
 
-This is a small (opiniated)  collection collection of topics and
+This is a small (opiniated) collection of topics and
 methods used when running Open Science workshop. We have used them in
-several occassion for workshops in diverse settings.
+several occassion for workshops in diverse settings (mostly for a
+scientific audience).
 
 * Adapt to the audience
+
+Adapt the material to the audience, e.g. students or seasoned researchers.
 
 * Important points to make
 
 - Open Science = Real Science (Good Scientific practice)
+- Open the **whole** research cycle
 
-* Icebreaker
+* Icebreaker (questions)
 
-- Organized by research field 
-- Who has tried to replicate a research paper but not able to do so?
-- Why did it not work 
+Used to relax the audience, so that they are more open for the following discussion.
 
-* Use the research cycle as frame work
+- Organize audience by
+	- research field
+	- career state (student, PhD, postdoc) or time being in science
+- Who has tried to replicate a research paper but not able to do so? If no, why did it not work?
+- Who has used free online teaching resources
+- Who has found useful information on a scientific blog, Twitter etc.
+- What was the longest time you had a manscript under peer review?
+- Who couldn't access a publication because of closed access
+- Who had problems acquiring published data
 
-- Idea -> Develop plan -> Fund -> Data generation -> Analysis -> Publishing -> ...
+* Use the research cycle as frame work to develop ideas with audience
+
+- Idea -> Develop plan -> Fund -> Data generation -> Data analysis -> Publish (submission, peer review) -> ...
+
+* What can **you** do right now?
+
+- Use/promote
+	- open access journals
+	- preprint servers (and publish freely accessible post-prints, e.g. [[http://dissem.in]])
+	- data repositories for your research data
+- Document and release code
+- Use the reviewing process to promote open science (e.g. “The Open Science Peer Review Oath”)
+- Interact with colleagues and public via social media (blogs, Twitter etc.)
+- Integrate Open Science in your classes (e.g. “The Open Science and Reproducible Research course”)
+- Do replication studies with students: Data available?, Code available and usable?, Methods detailed enough?
+- Organize Trainings: Software/Data/Library Carpentry, Hackathons etc.
+- Abandon the broken "journal prestige" system to influence university administration on matters of research evaluation and tenure (e.g. Felix Schönbrodt University of Munich, [[http://www.nicebread.de/open-science-hiring-practices/]]), and on grant panels and editorial boards
 
 * References/Links
 
 ** General
 
 - [[https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0669-2][When will ‘open science’ become simply ‘science’?]]
-- [[https://f1000research.com/articles/3-271/v2][An Open Science Peer Review Oath]]
+- [[http://ivory.idyll.org/blog/2016-what-is-open-science.html]['What is open science?']] by Titus C. Brown
 - [[http://science.okfn.org/][OKF Open Science Working Group]]
 - [[https://www.ag-openscience.de/][AG Open Science (German speaking)]]
 - [[http://www.openscienceradio.de/][Open Science Radio]]
+- [[https://101innovations.wordpress.com/][101 Innovations in Scholarly Communication]]
 
 ** Open Access
 
@@ -42,27 +69,75 @@ several occassion for workshops in diverse settings.
 
 **** Pre-Prints
 
+- Preprint server:
+	- [[http://biorxiv.org/][bioRxiv]]
+	- [[http://arxiv.org/][arXiv]]
+	- [[https://peerj.com/preprints/][PeerJ preprints]]
 - [[http://mbio.asm.org/content/8/3/e00438-17.full][Preprinting Microbiology]]
+- [[http://www.sherpa.ac.uk/romeo/index.php][SHERPA/ROMEO]] - Journal preprint/post-print policies
 
 ** Open Data
 - [[https://www.force11.org/group/fairgroup/fairprinciples][The FAIR Data Principles]]
+- [[https://osf.io/][Open Science Framework (OSF)]] - To publish the **whole** research cycle
+- Data repositories:
+	- [[http://datadryad.org/][Dryad]]
+	- [[http://www.zenodo.org/][Zenodo]]
+	- [[http://figshare.com/][Figshare]]
+	- [[http://www.re3data.org/][re3data.org]] – Registry of Research Data Repositories
+- Data journals
+	- [[http://www.gigasciencejournal.com/][GigaScience]]
 
 ** Open Source
 
 - [[https://choosealicense.com/][Choose an open source license]]
-- [[http://joss.theoj.org/][The Journal of Open Source Software]] - A developer friendly journal
-  for research software packages
+- [[http://joss.theoj.org/][The Journal of Open Source Software]] - A developer friendly journal for research software packages
+- Repositories
+	- [[http://github.com/][GitHub]]
+	- [[http://bitbucket.org/][Bitbucket]]
+	- [[http://sourceforge.net/][SourceForge]]
+- Get a citable DOI for your source code with Figshare/Zenodo
 
 ** Open Methodology
+
+- [[https://www.protocols.io/][Protocols.io]] - Publish protocols
+- [[https://osf.io/][Open Science Framework (OSF)]] - To publish the **whole** research cycle
+
 ** Open Peer Review
+
+- [[https://f1000research.com/articles/3-271/v2][An Open Science Peer Review Oath]]
+- Post publication peer review journals:
+	- [[http://f1000research.com/][F1000 Research]]
+	- [[https://www.scienceopen.com/][ScienceOpen]]
+- Discuss published articles:
+	- [[PubPeer: https://pubpeer.com/]]
+	- [[http://retractionwatch.com/][RetractionWatch]]
+	- [[http://www.ncbi.nlm.nih.gov/pubmedcommons/][PubMed Commons]]
+	- Blogs etc.
+- [[http://publons.com/][Publons]] - Take credit for Peer Review
+
 ** Open Notebook Science
+
+- [[http://openwetware.org/][OpenWetWare]]
+- [[https://jupyter.org/][Jupyter Notebook]]
+- [[http://rmarkdown.rstudio.com/][R Markdown]]
+
 ** Open Educational Resources
+
+- [[http://datacarpentry.org/][Data Carpentry]]
+- [[https://software-carpentry.org/][Software Carpentry]]
+
 ** Open / alternative metrics
+
 - [[https://quantixed.wordpress.com/2015/05/05/wrong-number-a-closer-look-at-impact-factors/][Wrong Number: A closer look at Impact Factors]]
 - [[https://www.nature.com/news/beat-it-impact-factor-publishing-elite-turns-against-controversial-metric-1.20224][Beat it, impact factor! Publishing elite turns against controversial metric]]
 - [[http://www.leidenmanifesto.org/][Leiden manifesto for research Metrics]]
 
 ** Citizen Science
+
+- Including citizens into the research process, e.g. crowdsourcing and engaging the public in massive research projects
+- [[http://fold.it/portal/][Online game Foldit]]
+- [[https://www.audubon.org/conservation/science][Audubon’s “Christmas Bird Count“]]
+
 * License
 
 "Can I reuse this content?" => "Yes, you can!" See LICENSE.txt.
