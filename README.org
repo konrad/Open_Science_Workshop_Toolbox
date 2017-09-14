@@ -35,9 +35,9 @@ These questions aim at some of the problems with the current scientific system c
 
 * Optionally include a short introduction talk
 
-This talk can introduce the purpose of Open Science, why Open Science is important (transparency and quality check, reproducibility crisis etc.), how Open Science can be done, what are the barriers for Open Science, and finally summarized the important points. It is also useful to give positive examples of the use of Open Science, either for science itself or for individuals.
+This talk can introduce the purpose of Open Science, why Open Science is important (transparency and quality check, reproducibility crisis etc.), how Open Science can be done, what are the barriers for Open Science, and finally summarize the important points. It is also useful to give positive examples of the use of Open Science, either for science itself or for individuals.
 
-Two talk we used thus far can be found here:
+The talks we used thus far can be found here:
 - [[https://speakerdeck.com/aleimba/vaam-2017][Open Science session at the DGHM/VAAM 2017]]
 - [[https://speakerdeck.com/aleimba/cyano2017][Open Science -the future of science?]] at the Cyano2017 conference
 
@@ -45,7 +45,7 @@ Two talk we used thus far can be found here:
 
 - Idea -> Funding/Grant application -> Experiment/Data generation -> Data analysis -> Peer Review --> Publish -> ...
 
-We normally use cards of the research cycle on a wall or pinboard and write the ideas down during the session. Depending how much time is available and the interests of the audience we try to include all the [[https://github.com/OKScienceDE/Facettes_of_Open_Science/blob/master/facettes_of_open_science.png][facets of Open Science]].
+We normally use cards of the research cycle on a wall or pinboard and write the ideas on cards to pin to the corresponding reasearch cycle item during the session. Depending how much time is available and the interests of the audience we try to include all the [[https://github.com/OKScienceDE/Facettes_of_Open_Science/blob/master/facettes_of_open_science.png][facets of Open Science]].
 
 * What can **you** do right now?
 
@@ -54,8 +54,7 @@ We normally use cards of the research cycle on a wall or pinboard and write the 
 	- preprint servers (and publish freely accessible post-prints, e.g. [[http://dissem.in]])
 	- data repositories for your research data
 - Document and release code
-- Use the reviewing process to promote open science (e.g. [[https://f1000research.com/articles/10.12688/f1000research.5686.2/doi]
-[“The Open Science Peer Review Oath”]])
+- Use the reviewing process to promote open science (e.g. [[https://f1000research.com/articles/10.12688/f1000research.5686.2/doi][“The Open Science Peer Review Oath”]])
 - Interact with colleagues and public via social media (blogs, Twitter etc.)
 - Integrate Open Science in your classes/meetings (e.g. [[https://github.com/cbahlai/OSRR_course][“The Open Science and Reproducible Research course”]])
 	- Do replication studies with students: Data available?, Code available and usable?, Methods detailed enough?
@@ -153,5 +152,5 @@ We normally use cards of the research cycle on a wall or pinboard and write the 
 
 * License
 
-"Can I reuse this content?" => "Yes, you can!" See LICENSE.txt.
+"Can I reuse this content?" => "Yes, you can!" See [[https://github.com/konrad/Open_Science_Workshop_Toolbox/blob/master/LICENSE.txt][LICENSE.txt]].
 
