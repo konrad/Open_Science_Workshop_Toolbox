@@ -145,6 +145,8 @@ We normally use cards of the research cycle on a wall or pinboard and write the 
 - [[https://academic.oup.com/bib/article/8/4/207/221574/BIB-s-first-impact-factor-is-24-37][Briefings in Bioinformatics - a single article pushed the JIP from 4 to 24]]
 - [[http://www.leidenmanifesto.org/][Leiden manifesto for research Metrics]]
 
+** Open Grant Proposals
+- [[https://jabberwocky.weecology.org/2012/08/10/a-list-of-publicly-available-grant-proposals-in-the-biological-sciences/][A list of publicly available grant proposals in the biological sciences]]
 ** Citizen Science
 
 - Including citizens into the research process, e.g. crowdsourcing and engaging the public in massive research projects
