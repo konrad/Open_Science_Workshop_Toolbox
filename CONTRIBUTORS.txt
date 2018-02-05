@@ -1,0 +1,5 @@
+This file contains a list of people who have contributed to this collection:
+
+- Konrad Förstner
+- Andreas Leimbach
+- Florian Goth
