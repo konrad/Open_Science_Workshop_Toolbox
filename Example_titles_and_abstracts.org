@@ -1,14 +1,14 @@
 ** Open Science - Principles, approaches and incentives
 
-(for a seminar, 2018-02-15, Faculty of Physic and Astronomy, University of Würzburg, by Konrad Förstner)
+(for a seminar, 2018-02-15, Faculty of Physics and Astronomy, SFB1170, University of Würzburg, by Konrad Förstner)
 
 Open science is an umbrella term for several recent developments like
 open access publishing, open research data and open research software
-that all aim to improve the research process in different
+that all aim to improve the scientific process in different
 dimensions. In order to understand these open approaches we will
 discuss the state of the current research cycle and what actually is
 good scientific practice. We will reflect and discuss how recent
 trends and new technologies can and should influence how we perform
-research and communicate science. We will also discuss the required
-incentives that drive this change and have a look at the perspective
-of the funding bodies like DFG as well as universities.
+research and communicate science to the society. We will also discuss
+the required incentives that drive this change and have a look at the
+perspective of funding bodies like the DFG as well as the universities.
