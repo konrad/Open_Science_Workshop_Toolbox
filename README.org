@@ -153,6 +153,8 @@ We normally use cards of the research cycle on a wall or pinboard and write the 
 - [[http://fold.it/portal/][Online game Foldit]]
 - [[https://www.audubon.org/conservation/science][Audubon’s “Christmas Bird Count“]]
 
+** Funders about Open Science
+- [[http://www.scienceeurope.org/wp-content/uploads/2018/02/SE_2017_High-level_Workshop_Report.pdf][Report: The rationales of open science digitalisation and democratisation in research]]
 * License
 
 "Can I reuse this content?" => "Yes, you can!" See [[https://github.com/konrad/Open_Science_Workshop_Toolbox/blob/master/LICENSE.txt][LICENSE.txt]].
