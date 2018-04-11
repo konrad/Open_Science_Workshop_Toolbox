@@ -71,6 +71,7 @@ We normally use cards of the research cycle on a wall or pinboard and write the 
 - [[https://www.ag-openscience.de/][AG Open Science (German speaking)]]
 - [[http://www.openscienceradio.de/][Open Science Radio]]
 - [[https://101innovations.wordpress.com/][101 Innovations in Scholarly Communication]]
+- [[https://open-science-training-handbook.gitbooks.io/][The Open Science Training Handbook]]
 
 ** Open Access
 
