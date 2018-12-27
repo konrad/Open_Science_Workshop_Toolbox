@@ -31,7 +31,7 @@ Used to relax the audience, so that they are more open for the following discuss
 - Who had problems acquiring published data
 - Who has tried to replicate a research paper but was not able to do so -- because of various reasons (data not available, analysis scripts not available, incomplete methods descriptions)?
 
-These questions aim at some of the problems with the current scientific system currently and Open Science can be a solution for many of these!
+These questions point at some of the problems with the current scientific system that can be solved by Open Science.
 
 * Optionally include a short introduction talk
 
