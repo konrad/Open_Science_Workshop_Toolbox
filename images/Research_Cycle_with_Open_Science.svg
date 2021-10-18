@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,8 +12,8 @@
    viewBox="0 0 297 210"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="Forschunskreilauf_mit_Open_Science.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="Research_Cycle_with_Open_Science.svg"
    inkscape:export-filename="/home/kuf/bitmap.png"
    inkscape:export-xdpi="500"
    inkscape:export-ydpi="500">
@@ -29,16 +27,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.57436889"
-     inkscape:cx="1176.9518"
+     inkscape:cx="841.80134"
      inkscape:cy="694.39002"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1916"
-     inkscape:window-height="1033"
+     inkscape:window-width="1920"
+     inkscape:window-height="1037"
      inkscape:window-x="0"
-     inkscape:window-y="20"
-     inkscape:window-maximized="0" />
+     inkscape:window-y="18"
+     inkscape:window-maximized="0"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -67,7 +66,8 @@
            height="192.85715"
            x="-250"
            y="88.233971" /></flowRegion><flowPara
-         id="flowPara1094" /></flowRoot>    <circle
+         id="flowPara1094" /></flowRoot>
+    <circle
        style="opacity:0.55699978;fill:#89d2ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.54180372;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91439688"
        id="path1155"
        cx="150.10806"
@@ -290,7 +290,8 @@
            height="45.267075"
            x="-351.69037"
            y="788.47766" /></flowRegion><flowPara
-         id="flowPara1523" /></flowRoot>    <flowRoot
+         id="flowPara1523" /></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot1525"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Arial;font-style:normal;font-weight:normal;font-size:36px;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;text-align:start;-inkscape-font-specification:Sans;font-stretch:normal;font-variant:normal"><flowRegion
@@ -300,7 +301,8 @@
            height="43.526035"
            x="-342.98514"
            y="802.40601" /></flowRegion><flowPara
-         id="flowPara1531" /></flowRoot>    <rect
+         id="flowPara1531" /></flowRoot>
+    <rect
        style="opacity:0.55699978;fill:#89d255;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.49755484;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91439688"
        id="rect1240-4"
        width="54.700611"
@@ -363,24 +365,24 @@
          y="290.64545"
          style="font-size:8.46666622px;stroke-width:0.26458332px">Open Source</tspan></text>
     <rect
-       style="opacity:0.55699978;fill:#89d255;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.34809902;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91439688"
+       style="opacity:0.557;fill:#89d255;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.348099;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.914397"
        id="rect1240-43-0-7"
        width="52.858009"
        height="15.130931"
-       x="213.33371"
-       y="252.44547"
+       x="233.53902"
+       y="237.28554"
        ry="3.2810817" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52499962px;line-height:125%;font-family:Arial;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="220.82814"
-       y="262.71432"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.525px;line-height:125%;font-family:Arial;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="241.03325"
+       y="247.5544"
        id="text1244-3-0-8"><tspan
          sodipodi:role="line"
          id="tspan1242-6-6-68"
-         x="220.82814"
-         y="262.71432"
-         style="font-size:8.46666622px;stroke-width:0.26458332px">Open Data</tspan></text>
+         x="241.03325"
+         y="247.5544"
+         style="font-size:8.46667px;stroke-width:0.264583px">Open Data</tspan></text>
     <rect
        style="opacity:0.55699978;fill:#89d255;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.44169372;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91439688"
        id="rect1240-43-0-7-8"
@@ -492,5 +494,24 @@
          x="232.84283"
          y="117.64481"
          style="font-size:8.46666622px;stroke-width:0.26458332px">Open Licenses</tspan></text>
+    <rect
+       style="opacity:0.557;fill:#89d255;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.419201;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.914397"
+       id="rect1240-43-0-7-3"
+       width="76.656746"
+       height="15.130931"
+       x="217.20602"
+       y="256.54773"
+       ry="3.2810817" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.525px;line-height:125%;font-family:Arial;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="224.70047"
+       y="266.81677"
+       id="text1244-3-0-8-6"><tspan
+         sodipodi:role="line"
+         id="tspan1242-6-6-68-7"
+         x="224.70047"
+         y="266.81677"
+         style="font-size:8.46667px;stroke-width:0.264583px">Open Methodolgy</tspan></text>
   </g>
 </svg>
